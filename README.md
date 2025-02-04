@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Bernardo Soutelo!</h1>
+<h1 align="center">Hi there, I'm Bernardo!</h1>
 <h3 align="center">Passionate about programming, data engineering and DevOps.</h3>
 
 - AWS Certified [Cloud Practioner](https://www.credly.com/badges/1dbe69a4-6767-4f8a-9bfb-e7291353f7ac/public_url)

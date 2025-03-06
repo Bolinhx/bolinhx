@@ -5,7 +5,7 @@
 
 - Systems Analysis and Development Student at **PUC Minas**
 
-- 🌱 I’m currently learning **Docker, Linux and Pandas**
+- 🌱 I’m currently learning **Docker, Linux and IaC**
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bolinhx&show_icons=true&theme=dark&locale=en&layout=compact" alt="bolinhx" /></p>
 
 

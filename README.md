@@ -1,11 +1,14 @@
 <h1 align="center">Hi there, I'm Bernardo!</h1>
-<h3 align="center">Passionate about programming, data engineering and DevOps.</h3>
+<h3 align="center">Passionate about otimization, reliability and learning .</h3>
 
 - AWS Certified [Cloud Practioner](https://www.credly.com/badges/1dbe69a4-6767-4f8a-9bfb-e7291353f7ac/public_url)
 
 - Systems Analysis and Development Student at **PUC Minas**
 
-- 🌱 I’m currently learning **Docker, Linux and IaC**
+- 🌱 I’m currently learning **Docker, Linux and SRE**
+
+- 📗 Take a look on my [Notepad repository](https://github.com/Bolinhx/notepads) to see how i learn and develop. 
+  
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bolinhx&show_icons=true&theme=dark&locale=en&layout=compact" alt="bolinhx" /></p>
 
 

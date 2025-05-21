@@ -5,7 +5,7 @@
 
 - Systems Analysis and Development Student at **PUC Minas**
 
-- 🌱 I’m currently learning **Docker, Linux and SRE**
+- 🌱 I’m currently learning **Data Analysis with Python and Pandas**
 
 - 📗 Take a look on my [Notepad repository](https://github.com/Bolinhx/notepads) to see how i learn and develop. 
   
